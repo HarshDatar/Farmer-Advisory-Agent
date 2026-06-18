@@ -1,0 +1,23 @@
+[
+  {
+    "name": "dfgh",
+    "district": "Pune",
+    "soil_type": "Clay",
+    "farm_size": 2.0,
+    "soil_ph": 6.5
+  },
+  {
+    "name": "vvvv",
+    "district": "Pune",
+    "soil_type": "Clay",
+    "farm_size": 2.0,
+    "soil_ph": 6.5
+  },
+  {
+    "name": "Ramesh Patil",
+    "district": "Satara",
+    "soil_type": "Clay",
+    "farm_size": 4.0,
+    "soil_ph": 6.5
+  }
+]
