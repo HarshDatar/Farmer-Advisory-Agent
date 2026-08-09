@@ -6,7 +6,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 import streamlit as st
-from FarmerAgent import FarmerProfile, AgentSetupError, DISTRICTS, KNOWN_SOIL_TYPES, load_agent
+from farmer_agent import FarmerProfile, AgentSetupError, DISTRICTS, KNOWN_SOIL_TYPES, load_agent
 
 st.set_page_config(
     page_title="Kisan Saathi",
