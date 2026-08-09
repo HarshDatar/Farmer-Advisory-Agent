@@ -54,7 +54,7 @@ _GEMINI_API_KEYS  = []
 _GEMINI_MODEL     = "gemini-2.0-flash"
 
 # ── Maharashtra districts in weather data ─────────────────────
-DISTRICTS = ["Pune", "Nagpur", "Nashik", "Kohlapur", "Satara"]
+DISTRICTS = ["Pune", "Nagpur", "Nashik", "Kolhapur", "Satara"]
 
 # ── Crops relevant to Maharashtra ────────────────────────────
 MH_CROPS = {
